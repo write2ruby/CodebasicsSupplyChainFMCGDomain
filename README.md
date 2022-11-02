@@ -1,12 +1,9 @@
 # Codebasics Supply Chain FMCG Domain using Power BI
 
-SQL, Excel, PowerBI or Tableau. The Aim of the challenge is to give data analysts/enthusiasts an opportunity to test themselves on real world business cases and to be able to work right from extracting data, cleaning the messy data and load it in tool where further calculations and visualizations are carried on. Every month they run new challenges that span over different domains like retail, FMCG, Hardware, IT, sales etc. This challenge gives the basic foundation on which we can build our data career. With onset of individual projects, there's so much to learn.
 
-These challenges are valuable for my growth. And I appreciate codebasics for coming up with such opportunity.
+Challenge [Link](https://codebasics.io/event/codebasics-resume-project-challenge)
 
-Challenge [Link](https://github.com/write2ruby/CodebasicsSupplyChainFMCGDomain/edit/main/README.md)
-
-My LinkedIN Submission [Link](https://github.com/write2ruby/CodebasicsSupplyChainFMCGDomain/edit/main/README.md)
+My Submission [Link](https://github.com/write2ruby/CodebasicsSupplyChainFMCGDomain)
 
 <h2>Problem Statement</h2>
 AtliQ Mart is a growing FMCG manufacturer headquartered in Gujarat, India. It is currently operational in three cities Surat, Ahmedabad and Vadodra. They want to expand to other metro/tier1 cities in the next 2 years.
@@ -24,17 +21,6 @@ Create the metrics according to the metrics list. Create a dashboard according t
 
 ![Data_model](/images/Img1.png)
 
-<h2>Dashboard</h2>
+#<h2>Dashboard</h2>
+#<h2>Business Insights</h2>
 
-![P1_Dashboard](https://user-images.githubusercontent.com/108889874/197377853-559efb89-1df7-4ac3-8820-7a7d85aafb40.png)
-
-![P2_Dashboard](https://user-images.githubusercontent.com/108889874/197377860-6985a042-9960-4147-9832-6e9181621af1.png)
-
-![P3_Dashboard](https://user-images.githubusercontent.com/108889874/197377872-ef5b8888-05eb-4c5a-8041-66b0a8f3c53f.png)
-
-
-<h2>Business Insights</h2>
-
-![C1_Dashboard](https://user-images.githubusercontent.com/108889874/197377932-af6c07a6-0853-4502-be40-6d1c9b5d4bbd.png)
-
-![C2_Dashboard](https://user-images.githubusercontent.com/108889874/197377940-aa578757-c9c1-4f7d-aa0b-79275e43ee44.png)
