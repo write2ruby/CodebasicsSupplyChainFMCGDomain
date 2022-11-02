@@ -4,6 +4,6 @@ SQL, Excel, PowerBI or Tableau. The Aim of the challenge is to give data analyst
 
 These challenges are valuable for my growth. And I appreciate codebasics for coming up with such opportunity.
 
-Challenge Link
+[Challenge Link] https://github.com/write2ruby/CodebasicsSupplyChainFMCGDomain/edit/main/README.md
 
 My LinkedIN Submission Link
