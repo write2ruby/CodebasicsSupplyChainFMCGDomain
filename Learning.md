@@ -2,7 +2,7 @@
 
 <h3>Github Learning: </h3>
 
-1. Inserting URL
+<b>1. Inserting URL</b>
    To insert URL, enclose text in square bracket and link in round bracket.
    Example: 
    [My Portfolio](www.google.com)
