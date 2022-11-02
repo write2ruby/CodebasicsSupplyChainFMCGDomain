@@ -19,3 +19,22 @@ The Supply Chain team decided to use a standard approach to measure the service 
 Assuming, I am the data analyst in the supply chain team who joined Atliq Mart recently. I have been briefed about the the task in the stakeholder business review meeting. Now I am excited to take on this challenge and build this dashboard and perform the following task:
 
 Create the metrics according to the metrics list. Create a dashboard according to the requirements provided by stakeholders in the business review meeting. I have been provided with the transcript of this business review meeting in the form of a comic. Create relevant insights that are not provided in the metric list/stakeholder meeting.
+
+<h2>Data Model</h2>
+
+![Data_model](https://user-images.githubusercontent.com/108889874/197377470-c41271a6-a075-4645-81ee-6c9fed4a455d.png)
+
+<h2>Dashboard</h2>
+
+![P1_Dashboard](https://user-images.githubusercontent.com/108889874/197377853-559efb89-1df7-4ac3-8820-7a7d85aafb40.png)
+
+![P2_Dashboard](https://user-images.githubusercontent.com/108889874/197377860-6985a042-9960-4147-9832-6e9181621af1.png)
+
+![P3_Dashboard](https://user-images.githubusercontent.com/108889874/197377872-ef5b8888-05eb-4c5a-8041-66b0a8f3c53f.png)
+
+
+<h2>Business Insights</h2>
+
+![C1_Dashboard](https://user-images.githubusercontent.com/108889874/197377932-af6c07a6-0853-4502-be40-6d1c9b5d4bbd.png)
+
+![C2_Dashboard](https://user-images.githubusercontent.com/108889874/197377940-aa578757-c9c1-4f7d-aa0b-79275e43ee44.png)
