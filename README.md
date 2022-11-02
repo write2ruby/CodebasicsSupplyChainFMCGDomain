@@ -22,7 +22,7 @@ Create the metrics according to the metrics list. Create a dashboard according t
 
 <h2>Data Model</h2>
 
-![Data_model](https://user-images.githubusercontent.com/108889874/197377470-c41271a6-a075-4645-81ee-6c9fed4a455d.png)
+![Data_model](https://github.com/write2ruby/Images/blob/main/Img1.png)
 
 <h2>Dashboard</h2>
 
