@@ -1,2 +1,2 @@
-# CodebasicsSupplyChainFMCGDomain
-Codebasics Supply Chain FMCG Domain Dashboard using Power BI
+# Codebasics Supply Chain FMCG Domain using Power BI
+
