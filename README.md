@@ -22,7 +22,7 @@ Create the metrics according to the metrics list. Create a dashboard according t
 
 <h2>Data Model</h2>
 
-![Data_model](/images/Im1.png)
+![Data_model](/images/Img1.png)
 
 <h2>Dashboard</h2>
 
